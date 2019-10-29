@@ -1,0 +1,21 @@
+[debug] [2019-10-29T23:14:51.696Z] ----------------------------------------------------------------------
+[debug] [2019-10-29T23:14:51.699Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Utopia\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-10-29T23:14:51.699Z] CLI Version:   7.6.2
+[debug] [2019-10-29T23:14:51.699Z] Platform:      win32
+[debug] [2019-10-29T23:14:51.699Z] Node Version:  v10.16.0
+[debug] [2019-10-29T23:14:51.700Z] Time:          Wed Oct 30 2019 00:14:51 GMT+0100 (GMT+01:00)
+[debug] [2019-10-29T23:14:51.700Z] ----------------------------------------------------------------------
+[debug] [2019-10-29T23:14:51.700Z] 
+[debug] [2019-10-29T23:14:51.711Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-29T23:14:51.712Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Utopia\Desktop\chat_project
+
